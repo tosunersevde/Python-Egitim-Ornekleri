@@ -1,0 +1,5 @@
+print(2+2)
+print(type(2.0))
+print(2**5)
+print(10%2)
+print(11//2)

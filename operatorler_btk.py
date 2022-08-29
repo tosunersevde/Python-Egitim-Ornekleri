@@ -1,4 +1,4 @@
-values = 1,2,3,4,5
+"""values = 1,2,3,4,5
 x,y,*z = values
 #basina yildiz koyarsak z icin de ayri bir liste olusturulur.
 print(x,y,z)
@@ -7,7 +7,7 @@ print(x,y,z)
 
 #sayi = int(input("Bir sayi girin:"))
 #if(sayi>100):
-    #print("Sayiniz 100'den buyuk")
+    #print("Sayiniz 100'den buyuk")"""
 
 
 

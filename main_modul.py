@@ -1,10 +1,10 @@
-import Modulum
-#result = help(Modulum_btk)
-#result = help(Modulum_btk.function) #Modul icersindei fonksiyon hakkinda bilgilendrime yapar.
-#result = Modulum_btk.number
-#result = Modulum_btk.numbers
-#result = Modulum_btk.personel['ad']
-result = Modulum_btk.function(10)
-p = Modulum_btk.Person()
+import modulum
+#result = help(modulum)
+#result = help(modulum.function) #Modul icersindei fonksiyon hakkinda bilgilendrime yapar.
+#result = modulum.number
+#result = modulum.numbers
+#result = modulum.personel['ad']
+result = modulum.function(10)
+p = modulum.Person()
 p.speak()
 print(result)

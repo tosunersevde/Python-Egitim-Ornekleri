@@ -1,8 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="173f8c10-15d6-4203-8db4-c4af4e8fd1d1" name="Changes" comment="">
+    <list default="true" id="173f8c10-15d6-4203-8db4-c4af4e8fd1d1" name="Changes" comment="Python Egitim Ornekleri">
+      <change beforePath="$PROJECT_DIR$/Bankamatik_Uygulama.py" beforeDir="false" afterPath="$PROJECT_DIR$/bankamatik_uygulama.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Ifadeleri_Harita_Filtre_btk.py" beforeDir="false" afterPath="$PROJECT_DIR$/lambda_ifadeleri_harita_filtre.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulum_btk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quiz_Uygulamasi_btk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quiz_Uygulamasi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/asal_sayi_btk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_BeatifulSoap_modulu.py" beforeDir="false" afterPath="$PROJECT_DIR$/beatifulSoap_modulu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_Json_modulu.py" beforeDir="false" afterPath="$PROJECT_DIR$/json_modulu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_Numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_OS_modulu.py" beforeDir="false" afterPath="$PROJECT_DIR$/os_modulu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_Pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_PyQt.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyQt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_PyQt5.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyQt5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_asal_sayi.py" beforeDir="false" afterPath="$PROJECT_DIR$/asal_sayi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_dateTime_modulu.py" beforeDir="false" afterPath="$PROJECT_DIR$/dateTime_modulu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_dekorator_fonksiyon.py" beforeDir="false" afterPath="$PROJECT_DIR$/dekorator_fonksiyon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_dosya.py" beforeDir="false" afterPath="$PROJECT_DIR$/dosya.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_doviz_uyg_requests.py" beforeDir="false" afterPath="$PROJECT_DIR$/doviz_uyg_requests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/error.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_github.py" beforeDir="false" afterPath="$PROJECT_DIR$/github.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_hata_bulan_ornek.py" beforeDir="false" afterPath="$PROJECT_DIR$/hata_bulan_ornek.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_ic_ice_fonksiyion.py" beforeDir="false" afterPath="$PROJECT_DIR$/ic_ice_fonksiyion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_iterartors.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterartors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_main_modul.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_modul.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_ogrenci_kayit.py" beforeDir="false" afterPath="$PROJECT_DIR$/ogrenci_kayit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_pandas_DataFrame.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_DataFrame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_regular_expression_modulu.py" beforeDir="false" afterPath="$PROJECT_DIR$/regular_expression_modulu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_request_modulu.py" beforeDir="false" afterPath="$PROJECT_DIR$/request_modulu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btk_veri_gosellestirme_Matplotlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/veri_gosellestirme_Matplotlib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguler_btk.py" beforeDir="false" afterPath="$PROJECT_DIR$/donguler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonksiyonlar_btk.py" beforeDir="false" afterPath="$PROJECT_DIR$/fonksiyonlar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_else_btk.py" beforeDir="false" afterPath="$PROJECT_DIR$/if_else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul_btk.py" beforeDir="false" afterPath="$PROJECT_DIR$/modul.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nesne_tabanli_programlama_btk.py" beforeDir="false" afterPath="$PROJECT_DIR$/nesne_tabanli_programlama.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/number_btk.py" beforeDir="false" afterPath="$PROJECT_DIR$/number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operatorler_btk.py" beforeDir="false" afterPath="$PROJECT_DIR$/operatorler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_liste_btk.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_liste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sayi_tahmin_btk.py" beforeDir="false" afterPath="$PROJECT_DIR$/sayi_tahmin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sets_btk.py" beforeDir="false" afterPath="$PROJECT_DIR$/sets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sozluk_btk.py" beforeDir="false" afterPath="$PROJECT_DIR$/sozluk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string_metot_btk.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_metot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarih_if_else_btk_ornek.py" beforeDir="false" afterPath="$PROJECT_DIR$/tarih_if_else_ornek.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables_btk.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +70,29 @@
       <option name="presentableId" value="Default" />
       <updated>1726669047584</updated>
     </task>
+    <task id="LOCAL-00001" summary="Python Egitim Ornekleri">
+      <created>1726669334573</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726669334573</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Python Egitim Ornekleri" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python Egitim Ornekleri" />
   </component>
 </project>

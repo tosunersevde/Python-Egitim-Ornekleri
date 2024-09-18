@@ -1,4 +1,4 @@
-import Modulum_btk
+import Modulum
 #result = help(Modulum_btk)
 #result = help(Modulum_btk.function) #Modul icersindei fonksiyon hakkinda bilgilendrime yapar.
 #result = Modulum_btk.number

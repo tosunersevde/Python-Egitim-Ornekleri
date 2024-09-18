@@ -37,7 +37,7 @@ print(result)"""
     if dosya.endswith(".py"): #Sonu .py ile biten dosyalari listeler.
         print(dosya)"""
         
-#result = os.stat("btk_OS_modulu.py") #Dosya hakkinda bilgi almak icin
+#result = os.stat("os_modulu.py") #Dosya hakkinda bilgi almak icin
 #result = result.st_size/1024 #Dosya boyutunu byte turunden verir. Kilobayt olarak bulmak icin.
 #result = datetime.datetime.fromtimestamp(result.st_ctime) #olsuturulma tarihi
 #result = datetime.datetime.fromtimestamp(result.st_atime) #son erisim tarihi
@@ -56,17 +56,17 @@ print(result)"""
 
 #OS modulu icerisindeki path sinifi daha cok uzantilar uzerinde islem yapar. 
 #Dosyanin uzantisini ya da ismini degistirme gibi islemler yapar.
-#result = os.path.abspath("btk_OS_modulu.py") #Dosyanin tam konumunu verir.
-#result = os.path.dirname("C:/Users/tosun/spyder_projeler/btk_OS_modulu.py")
-#result = os.path.dirname(os.path.abspath("btk_OS_modulu.py")) #Dizin ismi gerekliyse dosya yolunu veren sinifla yol yazdirilir.
-#result = os.path.exists("btk_OS_modulu.py") #Aranilan konumda dosyanin var olup olmadigi degerini dondurur.
+#result = os.path.abspath("os_modulu.py") #Dosyanin tam konumunu verir.
+#result = os.path.dirname("C:/Users/tosun/spyder_projeler/os_modulu.py")
+#result = os.path.dirname(os.path.abspath("os_modulu.py")) #Dizin ismi gerekliyse dosya yolunu veren sinifla yol yazdirilir.
+#result = os.path.exists("os_modulu.py") #Aranilan konumda dosyanin var olup olmadigi degerini dondurur.
 #result = os.path.exists("C:/Users/tosun/spyder_projeleri.py") #False - Klasor de sorgulanabilir.
 #result = os.path.isdir("C:/Users/tosun/spyder_projeler") #Klasor mu diye sorgular.
-#result = os.path.isdir("C:/Users/tosun/spyder_projeler/btk_OS_modulu.py") #Dosya oldugu icin false doner.
-#result = os.path.isfile("C:/Users/tosun/spyder_projeler/btk_OS_modulu.py") #True doner - Bu bir dosyadir.
+#result = os.path.isdir("C:/Users/tosun/spyder_projeler/os_modulu.py") #Dosya oldugu icin false doner.
+#result = os.path.isfile("C:/Users/tosun/spyder_projeler/os_modulu.py") #True doner - Bu bir dosyadir.
 #result = os.path.join("C://","deneme","deneme1") #Bir dizin-yol olsturur. - Ornek: bir resmi tasyacagin yer
 #result = os.path.split("C://deneme") #Yolu parcalar.
-result = os.path.splitext("btk_OS_modulu.py") #Ulasilan dosyanin ismi ile uzantisini ayirir.
+result = os.path.splitext("os_modulu.py") #Ulasilan dosyanin ismi ile uzantisini ayirir.
 result = result[0] # Resim ismi degistirmek icin isim ve uzanti ayrilir, isim degisitirilir.
 #result = result[1]
 print(result) #Tam konumu verilen dosyanin dizin ismini aliriz.
